@@ -50,4 +50,4 @@ assignment_project/
 1. **Clone this repository**  
    ```bash
    git clone https://github.com/atharva-404/Math-Problem-Templates---Assignment-Project
-   cd YOUR-REPO-NAME
+   
