@@ -44,6 +44,7 @@ assignment_project/
 ✔️ `template2_solved_1.html` → ₹12000 → ₹20736 → Rate = 20%  
 ✔️ `template2_solved_2.html` → ₹5000 → ₹6050 in 2 years → Rate = 10%  
 
+
 ----
 
 
