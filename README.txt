@@ -6,7 +6,6 @@ The assignment requirement was:
 
 ---
 
-
 ## 📂 Project Structure
 
 assignment_project/
