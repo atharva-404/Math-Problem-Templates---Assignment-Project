@@ -12,7 +12,6 @@ The assignment requirement was:
 ## 📂 Project Structure
 
 
-
 assignment_project/
 │
 ├── temp1.html # Original Template 1 (Trigonometry)
