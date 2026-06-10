@@ -5,7 +5,6 @@ This repository contains **HTML + CSS templates** for solving **Mathematics prob
 The assignment requirement was:  
 👉 *Do not change the template design or CSS, only solve problems inside them.*
 
-
 ---
 
 
