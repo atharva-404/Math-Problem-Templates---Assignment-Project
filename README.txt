@@ -20,7 +20,7 @@ assignment_project/
 ├── arrow.png # Arrow image used in design
 └── README.md # Project documentation
 
---
+---
 
 ## 🧮 Problems Explained
 
