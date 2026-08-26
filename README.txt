@@ -26,6 +26,7 @@ assignment_project/
 ## 🧮 Problems Explained
 
 
+
 ### 1. **Trigonometry**
 - **Question**: In a right triangle with sides 7, 24, 25 → Find `sec C + cot A`.  
 - **Answer**: 4/3 ✅  
