@@ -1,4 +1,4 @@
-ji# 📘 Math Problem Templates – Assignment Project
+# 📘 Math Problem Templates – Assignment Project
 
 This repository contains **HTML + CSS templates** for solving **Mathematics problems** in a step-by-step visual format.  
 The assignment requirement was:  
