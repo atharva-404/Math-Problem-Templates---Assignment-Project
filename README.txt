@@ -10,6 +10,7 @@ The assignment requirement was:
 
 
 
+
 assignment_project/
 │
 ├── temp1.html # Original Template 1 (Trigonometry)
